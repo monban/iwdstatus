@@ -1,0 +1,5 @@
+github.com/godbus/dbus/v5 v5.0.3/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
+github.com/godbus/dbus/v5 v5.0.4 h1:9349emZab16e7zQvpmsbtjc18ykshndd8y2PG3sgJbA=
+github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
+github.com/shibumi/iwd v0.0.0-20200717222022-dbbe3ac58ab9 h1:3vRweS6uUNRppSbgwLvKio00wRDyb4p7nPjKEBYKLkM=
+github.com/shibumi/iwd v0.0.0-20200717222022-dbbe3ac58ab9/go.mod h1:NnRWMVyEz37/YhL72SUaVFwYGyAQMTxe3KNVQEq/7AU=
